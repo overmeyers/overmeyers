@@ -4,7 +4,7 @@ A software engineer and solutions architect with 25+ years of experience. This p
 
 I’ve been immersed in tech my entire life but never really did the online presence thing. I'm trying to do that now and this is my way of sharing useful tools and ideas with the community.  
 
-I'm currently the CTO at [Scenarex](scenarex.ca), formerly at [Toromont](toromont.com).
+I'm currently the CTO at [Scenarex](https://www.scenarex.ca), formerly at [Toromont](https://www.toromont.com).
 
 Feel free to reach out if something here catches your interest or if ya feel like it.
 
